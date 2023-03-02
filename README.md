@@ -9,7 +9,7 @@ Dataset: https://tinyurl.com/j2tuwj8a
 
 SOLUTION:
 
-• I have conducted data analysis on the many variables included in the dataset and their impact on the country's GDP per capita. After joining the databases into a single list, we imputed missing information using a unique identifier and VLOOKUP.
+• I have conducted data analysis on the many variables included in the dataset and their impact on the country's GDP per capita. After joining the databases into a single list, I have imputed missing information using a unique identifier and VLOOKUP.
 
 • Since the information provided is specific to a nation and area for a year and cannot be
 considered as a whole for all the countries, the imputation approach employing aggregated
