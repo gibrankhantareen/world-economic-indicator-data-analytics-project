@@ -1,5 +1,5 @@
 
-# World Economic Indicator Project
+# World Economic Indicator - Data Analysis Project
 
 The Organisation for Economic Co-operation and Development is creating a department under its name which will focus on how a country can attain sustainable growth. This organisation hires you as a data analyst for this department to determine which factors a country should focus on to sustain GDP/ Capita.
 
